@@ -19,7 +19,7 @@ export const TopSection = styled.div`
 
 export const ImgAvatar = styled.img`
   border-radius: 50%;
-  width: 100px
+  width: 100px;
 `;
 
 export const MainParagraph = styled.p`
@@ -47,7 +47,6 @@ export const BottomSection = styled.ul`
   padding: 0;
 `;
 
-;
 export const LiElem = styled.li`
   display: flex;
   flex: 1;
